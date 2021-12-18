@@ -5,4 +5,10 @@ curso: MJV Java
 
 De Eddward - > 1° Pergunta: Dom, quando foi o seu primeiro contato com programação?
 
+Meu primeiro contato foi no início desse ano, quando comecei a procurar cursos e alternativas para migrar de carreira.
+Até então eu trabalhava no setor público, mas já almejava uma mudança há algum tempo. A programação me encantou com o universo
+de possibilidades que oferece. É mais difícil do que eu imaginava no começo, mas cada conquista é imensamente gratificante.
+
 De Eddward - > 2° Pergunta: Qual é a tua IDE preferida?
+
+Eu gosto muito do VSCode porque é bem intuitivo e bonito, mas já usei Intellij, Eclipse, Atom, Sublime... Acredito que seja muito útil conhecer um pouco mais de cada uma delas e do que oferecem. 
